@@ -1,12 +1,11 @@
 - layout: left
-  company: Wherwood
-  link: wherwood.com
-  job_title: Software Engineering Intern
-  dates: January 2020 - Present
+  company: Penn State-MC REU
+  link: inclusion.engr.psu.edu/research/multi-campus-research-experience.aspx
+  job_title: Engineering Research Intern
+  dates: May 2020 - August 2020
   quote: >
-   Worked with shareholders, to bring a fledgling company to internet 1.0.
+   Worked with advisor to create a VR simulation to teach engineering paradigms
   description: | # this will include new lines to allow paragraphs
-    Created and Maintained a data base, as well as created a landing page for Wherwood LLC.
-    
+    Created and Maintained a VR simulation with unity, as well as integrated eye tracking technology.
     
 
